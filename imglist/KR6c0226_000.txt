@@ -1,0 +1,3 @@
+004-0864b00	TKD 37-0325c	buddhist/K-koreana/37-tif/0300-0399/37_0325_C.TIF
+000-0865a22	TKD 37-0326a	buddhist/K-koreana/37-tif/0300-0399/37_0326_A.TIF
+000-0865b13	TKD 37-0326b	buddhist/K-koreana/37-tif/0300-0399/37_0326_B.TIF
