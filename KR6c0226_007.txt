@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:06.870756
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:30
 #+TITLE: 大乘理趣六波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0261
 #+PROPERTY: ID KR6c0226
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 261
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6c0226_T_007-0895a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
@@ -15,7 +15,7 @@
 ¶
 罽賓國三藏般若奉　詔譯¶
 
-精進波羅蜜多品第八¶
+* 精進波羅蜜多品第八¶
 
 爾時，薄伽梵說是安忍波羅蜜多已。時慈氏¶
 菩薩摩訶薩即從座起，偏袒右肩右膝著地，¶
@@ -234,9 +234,9 @@
 　能行諸難行，
 　而獲增勝果，¶
 　身命無悋惜，
-　當紹於法王。」
+　當紹於法王。」」
 #+END_VERSE
-」
+
 <pb:KR6c0226_T_007-0897a>¶
 
 爾時，佛告慈氏菩薩摩訶薩：「求菩提時擐精¶
